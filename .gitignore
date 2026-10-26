@@ -1,0 +1,10 @@
+# --- IDE ---
+.idea/
+
+# --- Secrets ---
+.env*
+!.env.example
+
+# --- OS junk ---
+Thumbs.db
+.DS_Store
